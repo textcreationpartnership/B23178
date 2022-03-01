@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dread of Gods power, uttering its voice thorough man, unto the heads of the nation. / George Fox the younger.</title>
+            <author>Fox, George, d. 1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23178</idno>
+            <idno type="STC">Wing F1999</idno>
+            <idno type="STC">Interim Tract Supplement Guide 4152.f.19[16]</idno>
+            <idno type="STC">ESTC R223008</idno>
+            <idno type="EEBO-CITATION">99885414</idno>
+            <idno type="PROQUEST">ocm99885414</idno>
+            <idno type="VID">193357</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23178)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193357)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B6:2[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dread of Gods power, uttering its voice thorough man, unto the heads of the nation. / George Fox the younger.</title>
+                  <author>Fox, George, d. 1661.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Robert Wilson, at the Signe of the Black-Spread-Eagle and Windmil in Martins Le Grand.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: Lambeth house, 28th 5th month, 1660.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:193357:1"/>
+            <pb facs="tcp:193357:1" rendition="simple:additions"/>
+            <p>THE DREAD OF Gods Power, Uttering its VOICE THOROUGH MAN, Unto the HEADS Of the NATION.</p>
+            <p>
+               <hi>George Fox</hi> the <hi>younger.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilſon,</hi> at the Signe of the <hi>Black-Spread-Eagle</hi> and <hi>Windmil</hi> in <hi>Martins Le Grand.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:193357:2"/>
+            <pb n="1" facs="tcp:193357:2"/>
+            <head>The <hi>DREAD</hi> of Gods Power, &amp;c.</head>
+            <p>OH! ye <hi>Mighty men</hi> who ſit upon the <hi>THRONE,</hi> that are <hi>Exalted</hi> into power, and brought into great <hi>Authority.</hi> Do you indeed know the <hi>Hand</hi> that brought you up thither? And do you rightly underſtand the End of your coming into <hi>power</hi> again? and do you certainly know the <hi>Work</hi> which God requires <hi>at your hands?</hi> And do you indeed ſee the true <hi>Leader,</hi> which is <hi>to Lead</hi> in the <hi>Way &amp; Work</hi> of the Lord? And do you <hi>Feel</hi> and <hi>Witneſs</hi> that your <hi>Hearts</hi> are truly Encli<g ref="char:EOLhyphen"/>ned and Prepared towards the <hi>Work</hi> of the Lord? Or <hi>are you not Ignorant</hi> of theſe Things? And do you not rather feel your <hi>Hearts</hi> enclined towards <hi>REVENG,</hi> and to make your ſelves <hi>Great,</hi> and to get your ſelves a <hi>Name,</hi> and to follow that which is pleaſing to your own <hi>Eyes,</hi> and to <hi>Condemn</hi> that which God hath <hi>Juſtified,</hi> and to <hi>Juſtifie</hi> that which God hath <hi>Condemned,</hi> and doth <hi>Condemn?</hi>
+            </p>
+            <p>Let there be an <hi>honeſt ſearch</hi> made with the <hi>Witneſs of God</hi> in your own hearts, which will ſhew you the thoughts, and the intents thereof; and think not to flatter your ſelves, as other have done before you, by conceiving that you are ſafe enough, becauſe the <hi>Arme of Fleſh</hi> is with you, and at your Command: For <hi>verily, verily, Thus ſaith the LORD GOD, I will yet make the Powers of the Earth to know, that I am GOD, and there is no other; and that I can do whatſoever I pleaſe, and my Purpoſe and Decree ſhall ſtand unalterable; and I will bring to paſs, the thing that is in my Heart, and none ſhall let it; for in its ſeaſon it ſhall be accompliſhed.</hi>
+            </p>
+            <p>Oh! <hi>Hear</hi> ye <hi>REBELLIO<g ref="char:V">Ʋ</g>S</hi> and <hi>live;</hi> Be not ſo <hi>ſtiff-necked</hi> and <hi>wilfull,</hi> like thoſe that went before you <hi>(who would not hear Reproof) leaſt I make you a hiſſing, and ſcatter you with more diſhonor than any, that went before you; for my Anger is kindled, and my Jealouſie is waxed hot againſt the Man of Sin. My</hi> Decree <hi>is to Diſ-throne him, and to take
+<pb n="2" facs="tcp:193357:3"/>the</hi> Kingdom <hi>my ſelf, and to ſlay his</hi> Subjects <hi>that will not turn at my Reproof, and be ſubject to my Government,</hi> There<g ref="char:EOLhyphen"/>fore ſeek not your ſelves, neither follow the Devices and Ini<g ref="char:EOLhyphen"/>quity of your own <hi>hearts</hi> any longer, for I the Lord am coming <hi>to plead with all Fleſh,</hi> and I will make mine <hi>Enemies know</hi> that I have <hi>Power</hi> to accompliſh my own Work, though I ſhould find all the <hi>Armed Men,</hi> and the <hi>Men in Authority</hi> againſt me.</p>
+            <p>Now this is my <hi>DECREE; I will ſet up Righteouſneſſe in the Earth, and I will eſtabliſh Equity and Mercy amongſt the people; I will remove Oppreſſion from off the Earth, and I will Search out, and Overthrow the Ground and Foundation thereof, in</hi> whomſoever, <hi>or in</hi> whatſoever <hi>it ſtands; even, as I overthrew</hi> Sodom <hi>in the dayes of old; and they that</hi> will not haſt out of it, ſhall certainly be deſtroyed, <hi>ſaith the Holy One,</hi> who will break the <hi>Potſherds</hi> of the Earth that withſtand him, and <hi>Conſume the</hi> Stubble, <hi>the</hi> Thorns <hi>and the</hi> Bryers <hi>that ſet themſelves in Battail againſt him, who is a Conſuming Fire.</hi>
+            </p>
+            <p>Therefore, <hi>Oh ye HEADS of the People! Conſider</hi> your Wayes, and <hi>weigh</hi> your Actions in that equal ballance <hi>(the Word of God)</hi> which will ſhew you the thoughts and the intents of your hearts: <hi>For verily,</hi> the Lord God is <hi>highly diſpleaſed,</hi> and your hearts are ſeen not to be right before him, Therefore con<g ref="char:EOLhyphen"/>ſider your <hi>foundation</hi> upon which you <hi>build,</hi> leaſt your <hi>building fall</hi> with great diſhonour and loſs, when the <hi>Storme</hi> comes, <hi>which ſhall come to try it.</hi>
+            </p>
+            <p>
+               <hi>Mark.</hi> Were <hi>You,</hi> or your <hi>Fathers</hi> and <hi>Friends</hi> able to keep your ſelves in Power, when the Lord formerly appeared againſt you, to caſt You out before your Enemies, becauſe of your <hi>Re<g ref="char:EOLhyphen"/>bellion</hi> againſt him? Or were your <hi>Enemies</hi> able to keep you <hi>out of power,</hi> and themſelves <hi>in,</hi> when the Lord appeared againſt them to Split and Confound them, and to turn their <hi>day into darkneſſe,</hi> and to bring you in as a Flood over them, becauſe of their <hi>treacherous dealing</hi> with the Lord, and becauſe they perverted the <hi>CA<g ref="char:V">Ʋ</g>SE</hi> and <hi>Power</hi> that was put into their hands,
+<pb n="3" facs="tcp:193357:3"/>ſerving <hi>themſelves</hi> and their <hi>luſts,</hi> and not <hi>the Lord?</hi> Verily, as they were not able to ſtand, no more will you be able <hi>to ſtand</hi> and keep your places <hi>(except you Repent)</hi> and own that your Enemies had <hi>a juſt Cauſe</hi> put into their hands againſt you: And ſo, put a difference betwixt the <hi>CA<g ref="char:V">Ʋ</g>SE,</hi> and <hi>That</hi> which perver<g ref="char:EOLhyphen"/>ted it, and not judge and condemn <hi>both</hi> together; for if you do, verily I ſay unto you, <hi>when you have filled up your meaſures, You will aſſuredly fall without recovery,</hi> though you were <hi>ten thou<g ref="char:EOLhyphen"/>ſand times ſtronger</hi> than you are, and although not one man ap<g ref="char:EOLhyphen"/>peared againſt you with a Carnall weapon.</p>
+            <p>
+               <hi>Conſider.</hi> Was it a <hi>carnall weapon that brought you in?</hi> Were you not brought in <hi>without a ſtroke outward?</hi> And is not the Lord the ſame? Is his Hand <hi>ſhortned?</hi> hath not he the hearts of all Fleſh <hi>in his Power?</hi> And can he not turn them <hi>as he pleaſeth?</hi> Can he not <hi>Root out,</hi> and <hi>Overthrow</hi> whomſoever <hi>he will?</hi> And if he will do it without outward means, <hi>Can any reſiſt his Will?</hi> Or if he will do it by outward means, <hi>Cannot he pro<g ref="char:EOLhyphen"/>vide it himſelf, contrary to Mans expectation?</hi> Therefore, <hi>DREAD ye the MAJESTY and POWER of the LORD, and fear before his Dreadful Name.</hi>
+            </p>
+            <p>
+               <hi>Friends,</hi> I muſt deal <hi>plainly</hi> with you in the ſight of God, who hath made me a <hi>Prophet</hi> to the <hi>Nation,</hi> I may not <hi>flatter</hi> any of you: My life is in the hand of <hi>my Maker,</hi> and not one hair of my Head can fall to the ground without his Providence. <hi>He hath Redeemed my Soul from Hell,</hi> and my <hi>Mind from the Earth; and he hath given me his good Spirit to lead me: I am henceforth no more my own, but I am the Lords, who hath Formed me for his Praiſe, and hath brought me forth, that I may ſound forth his powerful Truth amongſt the People.</hi> Therefore muſt I not <hi>fear Man,</hi> neither muſt I be afraid of <hi>the Sons of Men.</hi>
+            </p>
+            <p>Verily, your <hi>Spirits</hi> are ſeen to be <hi>too high</hi> for the <hi>Work,</hi> which God will have to be wrought in the Earth; and you are found in that your ſelves, which the Lord will <hi>work againſt.</hi> And he is loaded with the pride and exceſs that ye <hi>(and
+<pb n="4" facs="tcp:193357:4"/>many in the Nation)</hi> are in; and his <hi>ſoul Abhors the Vanitie, Muſick,</hi> and <hi>Pleaſures</hi> which ye delight in.</p>
+            <p>
+               <hi>Oh</hi> how hath <hi>iniquity abounded</hi> ſince ye came into place! and how is <hi>Oppreſſion,</hi> and <hi>Cruelty,</hi> increaſed and continued, upon them that ſeek the good of all! Now, conſider this, That which the Lord was wroth with you for, and threw you, and your friends out for before, he will not own That now, nor that you ſhould <hi>revive,</hi> and eſtabliſh That again: For the Lords <hi>Controverſy</hi> is yet againſt thoſe things, <hi>(though he hath thrown out a treacherous people, who perverted his Cauſe:)</hi> There<g ref="char:EOLhyphen"/>fore, <hi>try</hi> your <hi>FO<g ref="char:V">Ʋ</g>NDATION,</hi> before you build and ſettle; for verily, whatſoever is not founded upon <hi>CHRIST JES<g ref="char:V">Ʋ</g>S, the Rock of Ages,</hi> (whether it be in things <hi>Religious,</hi> or in things <hi>Civil</hi>) the <hi>higher</hi> it is built, the <hi>greater</hi> will its <hi>fall be;</hi> and <hi>every ones work muſt be tryed by fire,</hi> what <hi>Foundation</hi> ſoever they build upon, and great will be the Deſtruction and Con<g ref="char:EOLhyphen"/>ſumation; <hi>for nothing but what can abide the fire ſhall remain:</hi> And Verily, there is exceeding much, both in <hi>Governors,</hi> &amp; <hi>Go<g ref="char:EOLhyphen"/>vernments, Laws, Miniſtry, Profeſſion, Trades,</hi> &amp; in the Conſtitu<g ref="char:EOLhyphen"/>tion of them, as they now ſtand <hi>(and in the Converſations of the people)</hi> which is to be utterly deſtroyed by the fire of the Lords Jealouſie, and <hi>the Day haſtens which will try every mans work of what ſort it is;</hi> and that which is for the fire, nei<g ref="char:EOLhyphen"/>ther <hi>high words,</hi> nor <hi>outward ſtrength</hi> ſhall be able to ſave it.</p>
+            <p>Oh! The Spirit of the Lord is <hi>grieved,</hi> and <hi>preſſed,</hi> with the <hi>Iniquities</hi> and <hi>whoredoms</hi> of this Generation. Oh! the <hi>Waſte,</hi> and the <hi>Spoyle,</hi> that is made of the Lords Creatures, exceſs in <hi>Apparel,</hi> exceſs in <hi>Diet,</hi> and deceitful <hi>Feaſtings,</hi> and <hi>Banquetings;</hi> and each ſtriving to exceed one another, not ſcarce knowing what to invent, to <hi>eat</hi> and to <hi>drink,</hi> or <hi>to put on;</hi> or what <hi>Muſick,</hi> or <hi>Images</hi> and <hi>Vanities</hi> to invent to pleaſe the <hi>Carnal Eye</hi> and <hi>Eare;</hi> and in the mean time, your <hi>own fleſh,</hi> or them of the ſame <hi>blood, lye, go, ſit,</hi> or <hi>ſtand</hi> in your ſtreets, <hi>crying for a peice of bread;</hi> and many of your
+<pb n="5" facs="tcp:193357:4"/>
+               <hi>Lame,</hi> and <hi>Blind,</hi> and <hi>Sick,</hi> and others, both in <hi>Priſons</hi> and other places are ready to <hi>Famiſh.</hi>
+            </p>
+            <p>Oh! Conſider theſe things ſpeedily, and <hi>mock not</hi> at the Lords <hi>Meſſengers, (as ſome before you, have done, when they have been warned, as you now are)</hi> leſt your bonds be made ſtrong alſo, and leaſt the Lord ſmite you with a <hi>Curſe,</hi> and ſend you <hi>Famine</hi> or Want in the room of your <hi>abun<g ref="char:EOLhyphen"/>dance</hi> and <hi>Superfluite;</hi> and <hi>Raggs</hi> inſtead of <hi>Ribbons, Feathers, Gold,</hi> and <hi>Silver Lace,</hi> and <hi>Gorgious attire;</hi> and <hi>houling</hi> and <hi>mourning</hi> inſtead of your <hi>Muſick, Songs</hi> and <hi>Oaths.</hi>
+            </p>
+            <p>Oh! Its hard to utter the abomination that <hi>flowes</hi> and <hi>ſwels</hi> in this Nation; it is a ſhame to the <hi>Rulers,</hi> to ſuffer theſe <hi>Stage-playes, Mountebanks,</hi> and <hi>vain Sports</hi> and <hi>Shewes,</hi> whereby the Lord is greatly <hi>diſhonoured,</hi> and fooliſh people are chea<g ref="char:EOLhyphen"/>ted of their money, and the Creation is devoured and waſted, and <hi>Mens lives</hi> ſometimes endangered.</p>
+            <p>Oh! How have men invented miſcheif, and vanitie, to ſtir up lightneſſe and vanitie one in another. Oh ye <hi>Rulers!</hi> is not this a horrible wickedneſs, that a man who hath his right <hi>natural ſenſes,</hi> ſhould be ſuffered to fain himſelf to be a <hi>Natural Fool?</hi> and that he ſhould be ſuffered to ſpeak any light vain words he pleaſeth, even what he can invent, to ſtir up lightneſs, and vain laughter amongſt you? Have you not manifeſted your ſelves to be ſlighters of the <hi>Apoſtles Doctrine?</hi> (read, <hi>Eph.</hi> 4.29. &amp; 5.4.)</p>
+            <p>
+               <note n="*" place="margin">This <hi>Abomination</hi> have I beheld ſeveral times out of my Priſon window.</note> And is this an honor for the <hi>Chief</hi> of you, to have a company of Men and Boys, dreſt up with <hi>Ribbons</hi> and <hi>Bells</hi> about their legs, and one acting like <hi>a Fool</hi> with a <hi>Ladle</hi> in his hand, <hi>Dancing</hi> before you, even like a company of mad diſtracted men, making a noiſe like a company of <hi>Carriers Horſes?</hi>
+            </p>
+            <p>Oh! the Life of God is grieved <hi>with theſe things,</hi> and all that fear his Name loaths them, and it is a ſhame <hi>that ever ſuch things</hi> ſhould be ſuffered in a Land.</p>
+            <p>Therefore, O ye <hi>Rulers, let all this ungodlineſſe, and ſu<g ref="char:EOLhyphen"/>perfluity of nautineſſe be laid aſide, and receive with meek<g ref="char:EOLhyphen"/>neſſe
+<pb n="4" facs="tcp:193357:5"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:193357:5"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:193357:6"/>the ingrafted Word which is able to ſa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e your Souls,</hi> Jam. 1.21. and that will teach you to love, even your Enemies, and to forgive them; and to put a difference between the pretious and the vile: And it will keep your hands from <hi>blood,</hi> or your <hi>hearts</hi> from <hi>deſiring after it,</hi> if you will obey it; and it will ſhew you with what <hi>Gods Controverſy</hi> is, both in your <hi>Government,</hi> and <hi>Worſhip,</hi> and <hi>Converſations;</hi> and it will teach you to deny it. Yea, if you will own its Teachings, <hi>it will teach you to deny all ungodlineſſe, and worldly Lu <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and to live Godly, Righteouſly, and Soberly in this preſent world,</hi> Titus 2.11.12. But if you will not return to <hi>the word, which is nigh in your mouths, and in your hearts that you may obey it, and do it,</hi> (Deut. 30.14. Rom. 10.8.) verily this know, that neither your <hi>Strength</hi> nor <hi>Wiſdom,</hi> ſhall be able to deliver you, from the Juſt hand of the Lord, which ſhall find out all his Enemies.</p>
+            <p>Therefore, if you would eſcape the <hi>overturning hand</hi> of the Lord, <hi>Re<g ref="char:EOLhyphen"/>pent ſpeedily,</hi> and <hi>humble your ſelves before the Lord,</hi> and <hi>forgive</hi> your ene<g ref="char:EOLhyphen"/>mies; <hi>Love mercy, Compel</hi> none to your <hi>Worſhip,</hi> nor to uphold your <hi>Tea<g ref="char:EOLhyphen"/>chers,</hi> and be willing that the Lord alone ſhould ſend forth <hi>Labourers</hi> into his harveſt, and that he may lead them by his <hi>own Spirit,</hi> that they may ſpeak as that gives them utterance, and limit or quench it not, but let all have their <hi>Freedom</hi> to worſhip God in the Spirit, <hi>(who know it) accor<g ref="char:EOLhyphen"/>ding to the manifeſtation of it, which is given to every man to profit withal,</hi> (John 4.23.24. 1 Cor. 12.7.) for ſuch a Worſhip the Lord owns.</p>
+            <p>And take away that greivous <hi>oppreſſion of TITHES,</hi> and <hi>forced mainte<g ref="char:EOLhyphen"/>nance;</hi> which hath coſt ſome their <hi>lives,</hi> and many a <hi>great part</hi> of their <hi>eſtates,</hi> who for <hi>CONSCIENCE SAKE</hi> have been made to witneſſe againſt it. <hi>
+                  <g ref="char:V">Ʋ</g>ndoe every HEAVY B<g ref="char:V">Ʋ</g>RTHEN, and break every YOAK, and let the oppreſ<g ref="char:EOLhyphen"/>ſed go free; And let CHRIST JES<g ref="char:V">Ʋ</g>S, the everlaſting KING, have the prehe<g ref="char:EOLhyphen"/>minence in all things,</hi> Coloſ. 1.18. for theſe things the Lord will have to be accompliſhed and brought to paſs, And if you <hi>will not ſubmit</hi> to him in this his work, <hi>he muſt and will remove you.</hi>
+            </p>
+            <p>And this further conſider, Oh! take heed that none of you, upon your <hi>Beds,</hi> or <hi>elſewhere,</hi> deviſe <hi>Cruelty</hi> and <hi>Oppreſſion,</hi> and how <hi>to Avenge</hi> your ſelves upon <hi>your Enemies,</hi> and then, when you are aſſembled together, con<g ref="char:EOLhyphen"/>firm it <hi>by a Law,</hi> becauſe you have power ſo to do; for the Lord abhors <hi>that,</hi> who is appearing to give to every man according to the fruit of their do<g ref="char:EOLhyphen"/>ing, and he will not reſpect any mans perſon.</p>
+            <p>Now if by your Strength you can hinder the <hi>Sun from riſing and ſetting</hi> in its ſeaſon, and if you be able <hi>to ſtop</hi> the <hi>Thunder &amp; Lightening</hi> from having its operation, or to hinder <hi>the Winde</hi> from Blowing, and <hi>the Raine</hi> from De<g ref="char:EOLhyphen"/>ſcending, then may you <hi>Hinder</hi> the <hi>DECREE</hi> of the Lord, and by <hi>your Strength</hi> you may ſtand in Power and Peace, and Flouriſh <hi>for a long Seaſon,</hi> though you ſerve and Avenge your ſelves to the full, &amp; though you rebell a<g ref="char:EOLhyphen"/>gainſt the Lord, and oppreſs his Heritage.</p>
+            <closer>
+               <dateline>
+                  <hi>Lambeth houſe,</hi> 
+                  <date>28th 5th month, 1660.</date>
+               </dateline>
+               <signed>
+                  <hi>Written</hi> (as moved and given by that eternall power, which onely can preſerve, and deliver the Righteous) <hi>By a Priſoner for the Lord, who am given up to his will in all things. G. F.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
